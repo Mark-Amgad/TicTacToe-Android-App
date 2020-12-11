@@ -1,0 +1,3 @@
+XO.rar contains all files of the application  , you can download it and open the source files through "Android Studio" and see full app.
+
+MainActivity.java and game_place.java: Java source code used to develop the application.
